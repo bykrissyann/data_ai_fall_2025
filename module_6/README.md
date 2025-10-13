@@ -77,12 +77,12 @@ _Estimated time to complete: 2 hours_
 Additional resources: 
 
 - [X] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
-- [ ] Complete this [Learn AI for SQL](https://www.codecademy.com/learn/learn-ai-for-sql) course and mark when done
+- [x] Complete this [Learn AI for SQL](https://www.codecademy.com/learn/learn-ai-for-sql) course and mark when done
 
 # Assignment: 
 
 _Estimated time to complete: 6 hours_
 
-- [ ] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2025/blob/main/module_6/assignment/README.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/51). 
+- [x] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2025/blob/main/module_6/assignment/README.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/51). 
 
   
